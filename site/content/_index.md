@@ -1,6 +1,6 @@
 ---
 title: "Certified World Traveler"
-subtitle: Support sustainable farming while enjoying a cup
+subtitle: Sharing travel experiences one trip at a time
 image: /img/home-jumbotron.jpg
 blurb:
     heading: What is a Certified World Traveler?
