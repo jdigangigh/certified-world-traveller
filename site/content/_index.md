@@ -7,7 +7,7 @@ blurb:
     text: "A Certified World Traveler celebrates the experience of traveling abroad. We value travelers from around the world and want to be the platform for sharing stories and fostering global friendship."
 intro:
     heading: "What we offer"
-    text: "CWT is the ultimate spot for travel lovers who want to learn about the world and support the others on their journey. We take past experiences, provide trip planning information and provide guidelines as knowledge to anyone."
+    text: "CWT is the ultimate spot for travel lovers who want to learn about the world and support others on their journey. We take past experiences, share trip planning information and guidelines as knowledge to anyone."
 products:
     - image: img/illustrations-coffee.svg
       text: "We track global events and provide travel adviseries that are sourced directly from regions around the world. We’re proud to offer a variety of travel recommendations with great consideration of the environment and local communities. Check our destinations for current advisories."
