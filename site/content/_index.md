@@ -1,7 +1,7 @@
 ---
 title: "Certified World Traveler"
 subtitle: Sharing travel experiences from around the world
-image: /img/home-jumbotron.jpg
+image: /img/home-jumbotron2.jpg
 blurb:
     heading: What is a Certified World Traveler?
     text: "A Certified World Traveler celebrates the experience of traveling abroad. We value travelers from around the world and want to be the platform for sharing stories and fostering global friendship."
